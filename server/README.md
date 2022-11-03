@@ -34,3 +34,9 @@ $npx prisma generate
 
 Instalando 'CORS' fastify/cors 
 $npm i @fastify/cors
+
+Biblioteca de validação ZOD
+$npm i zod
+
+Biblioteca de criação de chave unica short unique id
+$npm i short-unique-id
