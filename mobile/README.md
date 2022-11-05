@@ -14,6 +14,7 @@ $npx expo install react-native-svg@12.1.1
 Instalando pacote para utilizar svg como component
 $npm i react-native-svg-transformer
 após instalação criar arquivo "metro.config.js"
+https://github.com/kristerkari/react-native-svg-transformer
 
 Instalando pacote para utilizar status bar
 $npx expo install react-native-safe-area-context@3.3.2
@@ -24,3 +25,13 @@ $npx expo install expo-font @expo-google-fonts/roboto
 utilizamos a lib de icons @expo/vector-icons
 https://oblador.github.io/react-native-vector-icons/
 
+instalando OAuth para fazer login com o google
+instalando 1ª lib expo-auth-session
+$npx expo install expo-auth-session expo-random
+2ª lib expo-web-browser para cuidar do processo de transição entro o app e o browser para authenticação
+$npx expo install expo-web-browser
+
+utilizando phosphor-react-native
+https://phosphoricons.com/
+https://github.com/duongdev/phosphor-react-native
+$npm install --save phosphor-react-native
