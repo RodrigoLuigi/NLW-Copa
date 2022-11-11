@@ -44,3 +44,16 @@ $npm install @react-navigation/bottom-tabs
 
 json formater e validator para ajudar na tipagem do TypeScript
 https://jsonformatter.curiousconcept.com/
+
+instalando country-list para pegar nome de países através do iso-code
+$npm install country-list
+utilizamos a biblioteca react-native-country-flag para mostras as flags dos países com base no iso-code de cada país
+$npm install --save react-native-country-flag
+
+utilizamos a lib Dary.js para formatar a data do game
+$npm install dayjs
+
+instalando uma lib para que o react native possa reconhecer variáveis de ambiente .env
+$npm i dotenv babel-plugin-inline-dotenv  
+configurando dotenv no arquivo babel.config.js
+plugin: ['inline-dotenv']
