@@ -71,11 +71,6 @@ $ npm run dev
 ...
 ```
 
-## :memo: Licença ##
-
-
-Este projeto está sob a licença do MIT. Para mais detalhes veja em [LICENSE](LICENSE.md).
-
 ##
 _**Feito por <a href="https://github.com/RodrigoLuigi" target="_blank">Rodrigo Luigi</a>**_  👨‍🚀
 
