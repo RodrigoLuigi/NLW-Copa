@@ -65,6 +65,6 @@ $ npm run dev
 
 &#xa0;
 
-_**Crafted by<a href="https://github.com/RodrigoLuigi" target="_blank">Rodrigo Luigi</a>**_
+_**Crafted by <a href="https://github.com/RodrigoLuigi" target="_blank">Rodrigo Luigi</a>**_ :rocket;
 
 <a href="#top">Back to top</a>
