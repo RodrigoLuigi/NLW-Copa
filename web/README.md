@@ -1,15 +1,16 @@
 <div align="center" id="top"> 
-  <img src="https://github.com/RodrigoLuigi/NLW-Copa/blob/main/web/src/assets/logo.svg" alt="NLW COPA" /> ⚽️
+  <img src="https://github.com/RodrigoLuigi/NLW-Copa/blob/main/web/src/assets/logo.svg" alt="NLW COPA" />
   <img src="https://github.com/RodrigoLuigi/NLW-Copa/blob/main/web/public/web.png" alt="NLW COPA" />
 
   &#xa0;
 
 </div>
 
-<h1 align="center">NLW Copa - Projeto Web Frontend </h1>
+<h1 align="center">NLW Copa ⚽️ Projeto Web Frontend </h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/RodrigoLuigi/NLW-Copa/tree/main/web?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages
+  /RodrigoLuigi/NLW-Copa/tree/main/web?color=56BEB8">
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/RodrigoLuigi/NLW-Copa/tree/main/web?color=56BEB8">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/RodrigoLuigi/NLW-Copa/tree/main/web?color=56BEB8">
   <img alt="License" src="https://img.shields.io/github/license/gi-carnaval/frontend-nlw-copa?color=56BEB8">
