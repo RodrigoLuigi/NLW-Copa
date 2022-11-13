@@ -1,7 +1,7 @@
 # <h1 align="center">NLW Copa ⚽️ Projeto Web Frontend </h1>
 
 <p align="center">
-  <a href="#book-sobre">Sobre</a> &#xa0; | &#xa0; 
+  <a href="#sobre">Sobre</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requisitos">Requisitos</a> &#xa0; | &#xa0;
@@ -14,7 +14,7 @@
 
 <br>
 
-## :book: Sobre ##
+### <img src="https://imgur.com/VhTBbHg.png" alt="imagem de um notebook" align="center" width="30px"> _**O que desenvolvemos neste Projeto?**_
 
 NLW Copa - web é um aplicativo para criar bolões descentralizados dos Jogos da Copa do Mundo. O usuário poderá criar seu próprio bolão e compartilhar o código de acesso para que outros usuários possam participar. Cada usuário poderá dar apenas um único palpite sobre cada jogo.
 
