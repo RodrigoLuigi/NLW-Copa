@@ -65,8 +65,10 @@ $ npm run dev
 
 &#xa0;
 
-<div style="display: flex">
+<div style="display: flex; width:100%; justify-content: space-between;">
+
 _**Crafted by<a href="https://github.com/RodrigoLuigi" target="_blank">Rodrigo Luigi</a>**_
+
 <a href="#top">Back to top</a>
 </div>
 
