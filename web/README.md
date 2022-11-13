@@ -1,7 +1,4 @@
-  ## Screenshots
-![App Screenshot](https://github.com/RodrigoLuigi/NLW-Copa/blob/main/web/public/web.png)
-
-<h1 align="center">NLW Copa ⚽️ Projeto Web Frontend </h1>
+# <h1 align="center">NLW Copa ⚽️ Projeto Web Frontend </h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages
@@ -21,6 +18,11 @@
   <!--<a href="#memo-licença">Licença</a> &#xa0; | &#xa0;-->
   <a href="https://github.com/gi-carnaval" target="_blank">Author</a>
 </p>
+
+## Screenshots
+![App Screenshot](https://github.com/RodrigoLuigi/NLW-Copa/blob/main/web/public/web.png)
+
+
 
 <br>
 
