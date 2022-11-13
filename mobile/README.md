@@ -1,59 +1,87 @@
-Cria projeto mobile com Expo
-$npx create-expo-app my-app
+# <h1 align="center">NLW Copa ⚽️ Projeto Web Frontend </h1>
 
-Transformando projeto para TypeScript , muda extenção App.tsx
-cria arquivo de configuração do TypeScript "tsconfig.json" e rodar o projeto para configurar este arquivo
-$npx expo start
+<p align="center">
+  <a href="#sobre">Sobre</a> &#xa0; | &#xa0; 
+  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
+  <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
+  <a href="#-requisitos">Requisitos</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-iniciando">Iniciando</a> &#xa0; | &#xa0;
+  <a href="https://github.com/RodrigoLuigi" target="_blank">Author</a>
+</p>
 
-Instala biblioteca Native Base
-$npm install native-base
+## Screenshots
+![App Screenshot](https://github.com/RodrigoLuigi/NLW-Copa/blob/main/web/public/web.png)
 
-Instalando pacote para utilizar svg no projeto
-$npx expo install react-native-svg@12.1.1
+<br>
 
-Instalando pacote para utilizar svg como component
-$npm i react-native-svg-transformer
-após instalação criar arquivo "metro.config.js"
-https://github.com/kristerkari/react-native-svg-transformer
+## <img id="sobre" src="https://imgur.com/VhTBbHg.png" alt="imagem de um notebook" align="center" width="30px"> _**O que desenvolvemos neste Projeto?**_
 
-Instalando pacote para utilizar status bar
-$npx expo install react-native-safe-area-context@3.3.2
+NLW Copa - web é um aplicativo para criar bolões descentralizados dos Jogos da Copa do Mundo. O usuário poderá criar seu próprio bolão e compartilhar o código de acesso para que outros usuários possam participar. Cada usuário poderá dar apenas um único palpite sobre cada jogo.
 
-Instalando pacote de fonts
-$npx expo install expo-font @expo-google-fonts/roboto
+## :sparkles: Features ##
 
-utilizamos a lib de icons @expo/vector-icons
-https://oblador.github.io/react-native-vector-icons/
+:heavy_check_mark: Criação de Bolões\
+:heavy_check_mark: Login with Google\
+:heavy_check_mark: Criação de Palpites por Bolão\
+:heavy_check_mark: Compartilhar Bolão com amigos!\
+:hammer_and_wrench: Mostrar Ranking por Bolão
 
-instalando OAuth para fazer login com o google
-instalando 1ª lib expo-auth-session
-$npx expo install expo-auth-session expo-random
-2ª lib expo-web-browser para cuidar do processo de transição entro o app e o browser para authenticação
-$npx expo install expo-web-browser
+## :rocket: Tecnologias ##
 
-utilizando phosphor-react-native
-https://phosphoricons.com/
-https://github.com/duongdev/phosphor-react-native
-$npm install --save phosphor-react-native
+As seguintes ferramentas foram usadas neste projeto:
 
-implementando react-navigation
-https://reactnavigation.org/docs/getting-started
-$npm install @react-navigation/native
-$npx expo install react-native-screens react-native-safe-area-context
-$npm install @react-navigation/bottom-tabs
+- [Expo](https://expo.io/)
+- [Axios](https://axios-http.com/)
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [React Navigation](https://reactnavigation.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 
-json formater e validator para ajudar na tipagem do TypeScript
-https://jsonformatter.curiousconcept.com/
+## 📚️ Bibliotecas ##
 
-instalando country-list para pegar nome de países através do iso-code
-$npm install country-list
-utilizamos a biblioteca react-native-country-flag para mostras as flags dos países com base no iso-code de cada país
-$npm install --save react-native-country-flag
+As seguintes bibliotecas foram usadas neste projeto:
 
-utilizamos a lib Dary.js para formatar a data do game
-$npm install dayjs
+- [phosphor-react-native]()
+- [country-list]()
+- [babel]()
+- [native-base]()
 
-instalando uma lib para que o react native possa reconhecer variáveis de ambiente .env
-$npm i dotenv babel-plugin-inline-dotenv  
-configurando dotenv no arquivo babel.config.js
-plugin: ['inline-dotenv']
+## 📝 Requisitos ##
+
+ - [Git](https://git-scm.com) 
+- [Node](https://nodejs.org/en/)
+- [npm](https://www.npmjs.com/)
+
+## :checkered_flag: Iniciando ##
+
+```bash
+# 
+$ git clone https://github.com/gi-carnaval/frontend-nlw-copa.git
+# Acesse o projeto
+$ cd frontend-nlw-copa
+# Instale as dependências
+$ npm i
+# Execute o projeto com npm
+$ npm run dev
+# O Server irá inicializar em http://localhost:3333
+```
+```bash
+# Clone este projeto
+$ git clone https://github.com/gi-carnaval/mobile-nlw-copa.git
+# Acesse o projeto
+$ cd mobile-nlw-copa
+# Instale as dependências
+$ npm i
+# Execute o projeto com Expo
+$ npx expo start
+# O servidor do Expo inicializará em exp://localhost:19000
+# Você pode escanear o QR code with Expo Go (Android) ou
+# com o app da Camera (iOS)
+```
+
+&#xa0;
+
+_**Feito por <a href="https://github.com/RodrigoLuigi" target="_blank">Rodrigo Luigi</a>**_  👨‍🚀
+
+<a href="#top">Back to top</a>
