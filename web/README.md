@@ -1,19 +1,16 @@
 # <h1 align="center">NLW Copa ⚽️ Projeto Web Frontend </h1>
 
 <p align="center">
-  <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
+  <a href="#book-sobre">Sobre</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requisitos">Requisitos</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-iniciando">Iniciando</a> &#xa0; | &#xa0;
-  <!--<a href="#memo-licença">Licença</a> &#xa0; | &#xa0;-->
-  <a href="https://github.com/gi-carnaval" target="_blank">Author</a>
+  <a href="https://github.com/RodrigoLuigi" target="_blank">Author</a>
 </p>
 
 ## Screenshots
 ![App Screenshot](https://github.com/RodrigoLuigi/NLW-Copa/blob/main/web/public/web.png)
-
-
 
 <br>
 
