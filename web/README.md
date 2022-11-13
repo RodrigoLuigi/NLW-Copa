@@ -1,6 +1,5 @@
   ## Screenshots
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-  <img src="https://github.com/RodrigoLuigi/NLW-Copa/blob/main/web/public/web.png" alt="NLW COPA" />
+![App Screenshot](https://github.com/RodrigoLuigi/NLW-Copa/blob/main/web/public/web.png)
 
 <h1 align="center">NLW Copa ⚽️ Projeto Web Frontend </h1>
 
