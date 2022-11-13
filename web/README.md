@@ -64,6 +64,9 @@ $ npm run dev
 
 
 &#xa0;
-_**Crafted by<a href="https://github.com/RodrigoLuigi" target="_blank">Rodrigo Luigi</a>**_
 
-<a href="#top" style="text-align: right;">Back to top</a>
+<div style="display: flex">
+_**Crafted by<a href="https://github.com/RodrigoLuigi" target="_blank">Rodrigo Luigi</a>**_
+<a href="#top">Back to top</a>
+</div>
+
