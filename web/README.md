@@ -62,8 +62,8 @@ $ npm run dev
 # O Server irá inicializar em http://localhost:3333
 ```
 
-_**Crafted by<a href="https://github.com/RodrigoLuigi" target="_blank">Rodrigo Luigi</a>**_
 
 &#xa0;
+_**Crafted by<a href="https://github.com/RodrigoLuigi" target="_blank">Rodrigo Luigi</a>**_
 
 <a href="#top">Back to top</a>
