@@ -10,7 +10,7 @@
 </p>
 
 ## Screenshots
-![App Screenshot](https://github.com/RodrigoLuigi/NLW-Copa/blob/main/web/public/web.png)
+![App Screenshot](https://github.com/RodrigoLuigi/NLW-Copa/blob/main/mobile/assets/mobile.png)
 
 <br>
 
