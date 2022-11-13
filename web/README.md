@@ -66,6 +66,6 @@ $ npm run dev
 
 &#xa0;
 
-_**Crafted by <a href="https://github.com/RodrigoLuigi" target="_blank">Rodrigo Luigi</a>**_  👨‍🚀
+_**Feito por <a href="https://github.com/RodrigoLuigi" target="_blank">Rodrigo Luigi</a>**_  👨‍🚀
 
 <a href="#top">Back to top</a>
