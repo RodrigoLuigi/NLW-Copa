@@ -1,10 +1,6 @@
-<div align="center" id="top"> 
-  <img src="https://github.com/RodrigoLuigi/NLW-Copa/blob/main/web/src/assets/logo.svg" alt="NLW COPA" />
+  ## Screenshots
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
   <img src="https://github.com/RodrigoLuigi/NLW-Copa/blob/main/web/public/web.png" alt="NLW COPA" />
-
-  &#xa0;
-
-</div>
 
 <h1 align="center">NLW Copa ⚽️ Projeto Web Frontend </h1>
 
