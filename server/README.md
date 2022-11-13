@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#sobre">Sobre</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
+  <a href="#-features">Features</a> &#xa0; | &#xa0;
   <a href="#-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#-requisitos">Requisitos</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-iniciando">Iniciando</a> &#xa0; | &#xa0;
@@ -13,7 +13,7 @@
 
 NLW Copa - web é um aplicativo para criar bolões descentralizados dos Jogos da Copa do Mundo. O usuário poderá criar seu próprio bolão e compartilhar o código de acesso para que outros usuários possam participar. Cada usuário poderá dar apenas um único palpite sobre cada jogo.
 
-## :sparkles: Features ##
+## ⚙️ Features ##
 
 :heavy_check_mark: Criação de Bolões\
 :heavy_check_mark: Criação de Palpites por Bolão\
@@ -62,13 +62,24 @@ $ npm run dev
 ## 🔗 Rotas ##
 
 ```bash
-# [GET] todos os bolões
+# [GET] Lista todos os bolões
 /polls
-# [GET] Bolão por id
-/polls/:id
-# [GET] Contagem de usuários
+# [GET] Detalhes do bolão por id
+/polls/:poolId
+# [GET] Contagem de bolões
+/pools/count
+# [POST] Criar bolão
+/pools
+# [POST] Entrar em um bolão
+/pools/join
+# [GET] Contagem de usuários registrados
 /users/count
-...
+# [GET] Contagem de palpites feitos em um bolão
+/guesses/count
+# [POST] Criar palpite em um jogo dentro de um bolão
+/pools/:poolId/games/:gameId/guesses
+# [GET] Lista os jogos de um bolão
+/pools/:id/games
 ```
 
 ##
