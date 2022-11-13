@@ -4,7 +4,7 @@
   <a href="#sobre">Sobre</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requisitos">Requisitos</a> &#xa0; | &#xa0;
+  <a href="#requisitos">Requisitos</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-iniciando">Iniciando</a> &#xa0; | &#xa0;
   <a href="https://github.com/RodrigoLuigi" target="_blank">Author</a>
 </p>
@@ -43,7 +43,7 @@ As seguintes bibliotecas foram usadas neste projeto:
 - [Autoprefixer]()
 - [Axios]()
 
-## :white_check_mark: Requisitos ##
+## 📝 Requisitos ##
 
 - [Git](https://git-scm.com) 
 - [Node](https://nodejs.org/en/)
