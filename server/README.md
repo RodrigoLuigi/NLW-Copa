@@ -1,42 +1,84 @@
-inicializando projeto 
-$npm init -y
+# <h1 align="center">NLW Copa ⚽️ Projeto Mobile Frontend </h1>
 
-instalando as dependencias do typescript
-$npm i typescript -D
+<p align="center">
+  <a href="#sobre">Sobre</a> &#xa0; | &#xa0; 
+  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
+  <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
+  <a href="#-requisitos">Requisitos</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-iniciando">Iniciando</a> &#xa0; | &#xa0;
+  <a href="https://github.com/RodrigoLuigi" target="_blank">Author</a>
+</p>
 
-inicializando setup de config do typescript
-$npx tsc --init
+## <img id="sobre" src="https://imgur.com/VhTBbHg.png" alt="imagem de um notebook" align="center" width="30px"> _**O que desenvolvemos neste Projeto?**_
 
-insstalando o fastify (alternativa ao express.js)
-$npm i fastify
+NLW Copa - web é um aplicativo para criar bolões descentralizados dos Jogos da Copa do Mundo. O usuário poderá criar seu próprio bolão e compartilhar o código de acesso para que outros usuários possam participar. Cada usuário poderá dar apenas um único palpite sobre cada jogo.
 
-instalando a dependencia de desenvolvimento que cuidará da converção de TS para JS
-$npm i tsx -D
+## :sparkles: Features ##
 
-instalando o prisma 
-$npm i prisma -D
+:heavy_check_mark: Criação de Bolões\
+:heavy_check_mark: Criação de Palpites por Bolão\
+:heavy_check_mark: Compartilhar Bolão com amigos!\
+:hammer_and_wrench: Mostrar Ranking por Bolão
 
-ferramenta para trabalhar com banco de dados
-$npm i @prisma/client
+## :rocket: Tecnologias ##
 
-configurando o setup para trabalhar com banco de dados SQLite
-$npx prisma init --datasource-provider SQLite
+As seguintes ferramentas foram usadas neste projeto:
 
-rodando as migrations de versionamento do DB , e cria table Pool no banco de dados
-$npx prisma migrate dev
+- [Node.js](https://nodejs.org/en/)
+- [TypeScript](https://www.typescriptlang.org/)
 
-criando entidade de relacionamento entre tabelas do banco de dados ERD
-o mermaid é utilizado para gerar diagramas de entidade de relacionamento
-$npm i prisma-erd-generator @mermaid-js/mermaid-cli -D
+## 📚️ Bibliotecas ##
 
-inicializando prisma-erd-generator
-$npx prisma generate
+As seguintes bibliotecas foram usadas neste projeto:
 
-Instalando 'CORS' fastify/cors 
-$npm i @fastify/cors
+- [fastify]()
+- [prisma]()
+- [short-unique-id]()
+- [zod]()
 
-Biblioteca de validação ZOD
-$npm i zod
+## 📝 Requisitos ##
 
-Biblioteca de criação de chave unica short unique id
-$npm i short-unique-id
+- [Git](https://git-scm.com) 
+- [Node](https://nodejs.org/en/)
+- [npm](https://www.npmjs.com/)
+- [server](https://github.com/RodrigoLuigi/NLW-Copa/tree/main/server)
+
+## :checkered_flag: Iniciando ##
+
+```bash
+# Clone este projeto (server)
+$ git clone https://github.com/RodrigoLuigi/NLW-Copa/tree/main/server.git
+# Acesse o projeto
+$ cd server
+# Instale as dependências
+$ npm install
+# Criar arquivo .env e configurar variáveis de ambiente para autenticação com o Google
+CLIENT_ID: xxxxxxxxxxxxx
+# Execute o projeto com npm
+$ npm run dev
+# O Server irá inicializar em http://localhost:3333
+```
+
+## 🔗 Rotas ##
+
+```bash
+# [GET] todos os bolões
+/polls
+# [GET] Bolão por id
+/polls/:id
+# [GET] Contagem de usuários
+/users/count
+...
+```
+
+## :memo: Licença ##
+
+
+Este projeto está sob a licença do MIT. Para mais detalhes veja em [LICENSE](LICENSE.md).
+
+##
+_**Feito por <a href="https://github.com/RodrigoLuigi" target="_blank">Rodrigo Luigi</a>**_  👨‍🚀
+
+&#xa0;
+
+<a href="#top">Back to top</a>
