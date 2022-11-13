@@ -47,6 +47,7 @@ As seguintes bibliotecas foram usadas neste projeto:
 
 - [Git](https://git-scm.com) 
 - [Node](https://nodejs.org/en/)
+- [npm](https://www.npmjs.com/)
 
 ## :checkered_flag: Iniciando ##
 
