@@ -49,26 +49,29 @@ As seguintes bibliotecas foram usadas neste projeto:
 
 ## 📝 Requisitos ##
 
- - [Git](https://git-scm.com) 
+- [Git](https://git-scm.com) 
 - [Node](https://nodejs.org/en/)
 - [npm](https://www.npmjs.com/)
+- [server](https://github.com/RodrigoLuigi/NLW-Copa/tree/main/server)
 
 ## :checkered_flag: Iniciando ##
 
 ```bash
-# 
-$ git clone https://github.com/gi-carnaval/frontend-nlw-copa.git
+# Clone este projeto (server)
+$ git clone https://github.com/RodrigoLuigi/NLW-Copa/tree/main/server.git
 # Acesse o projeto
-$ cd frontend-nlw-copa
+$ cd server
 # Instale as dependências
-$ npm i
+$ npm install
+# Criar arquivo .env e configurar variáveis de ambiente para autenticação com o Google
+CLIENT_ID: xxxxxxxxxxxxx
 # Execute o projeto com npm
 $ npm run dev
 # O Server irá inicializar em http://localhost:3333
 ```
 ```bash
-# Clone este projeto
-$ git clone https://github.com/gi-carnaval/mobile-nlw-copa.git
+# Clone este projeto (frontend)
+$ git clone https://github.com/RodrigoLuigi/NLW-Copa/tree/main/mobile.git
 # Acesse o projeto
 $ cd mobile-nlw-copa
 # Instale as dependências
