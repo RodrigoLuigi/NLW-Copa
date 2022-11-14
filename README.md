@@ -42,4 +42,15 @@ Neste módulo, foi desenvolvido uma página estática contendo um card personali
   🔗  [Frontend Mobile](https://github.com/RodrigoLuigi/NLW-Copa/tree/main/copa-card#top)<br>
  
 
+### :memo: Licença ##
+ MIT License. Para mais detalhes veja em [LICENSE](./LICENSE).
+
+ ##
+ 
+&#xa0;
+
+_**Feito por <a href="https://github.com/RodrigoLuigi" target="_blank">Rodrigo Luigi</a>**_  👨‍🚀 :rocket:
+
+
+<a href="#top">Back to top</a>
 
