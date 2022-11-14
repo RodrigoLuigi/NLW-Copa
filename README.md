@@ -17,13 +17,21 @@
   <a href="https://github.com/RodrigoLuigi/NLW-Copa/tree/main/mobile#top">Mobile</a> &#xa0; | &#xa0;
 </p>
 
+# ⚽️ Next Level Week - Copa 
+NLW Copa - é um aplicativo para criar bolões descentralizados dos Jogos da Copa do Mundo. O usuário poderá criar seu próprio bolão e compartilhar o código de acesso para que outros usuários possam participar. Cada usuário poderá dar apenas um único palpite sobre cada jogo.
 ## <img id="sobre" src="https://imgur.com/VhTBbHg.png" alt="imagem de um notebook" align="center" width="30px"> _**O que desenvolvemos neste Projeto?**_
 
-NLW Copa - é um aplicativo para criar bolões descentralizados dos Jogos da Copa do Mundo. O usuário poderá criar seu próprio bolão e compartilhar o código de acesso para que outros usuários possam participar. Cada usuário poderá dar apenas um único palpite sobre cada jogo.
+# <br>:book: Módulos do NLW-Copa
 
-<div style="border: 1px" width="250px" height="300px">
-<h2>
-Copa-Card Web
-</h2>
-<img id="sobre" src="./nlw-copa.png" alt="imagem de um notebook" align="center" width="30px">
-</div>
+### <img src="https://imgur.com/VhTBbHg.png" alt="imagem de um notebook" align="center" width="30px"> [_**Stage 01: Copa Card Web**_](https://github.com/RodrigoLuigi/Explorer---RocketSeat/tree/master/Stage%2001%20-%20Fundamentos%20Programa%C3%A7%C3%A3o%20Web)
+  Neste módulo, desenvolvemos uma página estática contendo um card personalizado do evento NLW Copa.
+
+  🔗  [Copa-Card Web](https://github.com/RodrigoLuigi/NLW-Copa/tree/main/copa-card#top)<br>
+ 
+### <img src="https://imgur.com/VhTBbHg.png" alt="imagem de um notebook" align="center" width="30px"> [_**Stage 01: Copa Card Web**_](https://github.com/RodrigoLuigi/Explorer---RocketSeat/tree/master/Stage%2001%20-%20Fundamentos%20Programa%C3%A7%C3%A3o%20Web)
+  Neste módulo, desenvolvemos uma página estática contendo um card personalizado do evento NLW Copa.
+
+  🔗  [Copa-Card Web](https://github.com/RodrigoLuigi/NLW-Copa/tree/main/copa-card#top)<br>
+ 
+
+
