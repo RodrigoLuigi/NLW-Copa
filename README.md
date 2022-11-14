@@ -3,7 +3,7 @@
 
 <br/>
 
-<p align="center" color="blueviolet">
+<p align="center">
   <a href="#sobre">API</a> &#xa0; | &#xa0; 
   <a href="#-features">Web</a> &#xa0; | &#xa0;
   <a href="#-tecnologias">Mobile</a> &#xa0; | &#xa0;
