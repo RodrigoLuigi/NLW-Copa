@@ -11,10 +11,10 @@
 <br/>
 
 <p align="center">
-  <a href="#sobre">API</a> &#xa0; | &#xa0; 
-  <a href="https://github.com/RodrigoLuigi/NLW-Copa/tree/main/copa-card #top">Copa-Card Web</a> &#xa0; | &#xa0;
-  <a href="#-features">Web</a> &#xa0; | &#xa0;
-  <a href="https://github.com/RodrigoLuigi/NLW-Copa/tree/main/mobile #top">Mobile</a> &#xa0; | &#xa0;
+  <a href="https://github.com/RodrigoLuigi/NLW-Copa/tree/main/server#top">API</a> &#xa0; | &#xa0; 
+  <a href="https://github.com/RodrigoLuigi/NLW-Copa/tree/main/copa-card#top">Copa-Card Web</a> &#xa0; | &#xa0;
+  <a href="https://github.com/RodrigoLuigi/NLW-Copa/tree/main/web#top">Web</a> &#xa0; | &#xa0;
+  <a href="https://github.com/RodrigoLuigi/NLW-Copa/tree/main/mobile#top">Mobile</a> &#xa0; | &#xa0;
 </p>
 
 ## <img id="sobre" src="https://imgur.com/VhTBbHg.png" alt="imagem de um notebook" align="center" width="30px"> _**O que desenvolvemos neste Projeto?**_
