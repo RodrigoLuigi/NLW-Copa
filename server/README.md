@@ -41,7 +41,6 @@ As seguintes bibliotecas foram usadas neste projeto:
 - [Git](https://git-scm.com) 
 - [Node](https://nodejs.org/en/)
 - [npm](https://www.npmjs.com/)
-- [server](https://github.com/RodrigoLuigi/NLW-Copa/tree/main/server)
 
 ## :checkered_flag: Iniciando ##
 
