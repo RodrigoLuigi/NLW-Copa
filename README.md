@@ -1,5 +1,5 @@
 
-<img src="https://github.com/RodrigoLuigi/NLW-Copa/blob/main/web/public/web.png" alt="nlw-copa" height="300px"/>
+<img src="./nlw-copa.png" alt="nlw-copa" />
 
 <br/>
 
