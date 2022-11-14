@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#sobre">Sobre</a> &#xa0; | &#xa0; 
-  <a href="# features">Features</a> &#xa0; | &#xa0;
+  <a href="#⚙️ Features">Features</a> &#xa0; | &#xa0;
   <a href="#-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#-requisitos">Requisitos</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-iniciando">Iniciando</a> &#xa0; | &#xa0;
