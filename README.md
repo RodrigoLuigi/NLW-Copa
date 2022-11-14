@@ -1,7 +1,5 @@
 <img id="top" src="./nlw-copa.png" alt="nlw-copa" height="200px" width="100%"/>
 
-<br>
-
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/RodrigoLuigi/NLW-Copa?color=56BEB8">
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/RodrigoLuigi/NLW-Copa?color=56BEB8">
@@ -19,6 +17,8 @@
   <a href="https://github.com/RodrigoLuigi/NLW-Copa/tree/main/mobile#top">Mobile</a> &#xa0; | &#xa0;
   <a href="#memo-licença">Licença</a>
 </p>
+
+<br>
 
 # ⚽️ Next Level Week - Copa 
 NLW Copa - é um aplicativo para criar bolões descentralizados dos Jogos da Copa do Mundo. O usuário poderá criar seu próprio bolão e compartilhar o código de acesso para que outros usuários possam participar. Cada usuário poderá dar apenas um único palpite sobre cada jogo.
