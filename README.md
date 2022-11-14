@@ -1,5 +1,7 @@
 <img id="top" src="./nlw-copa.png" alt="nlw-copa" height="200px" width="100%"/>
 
+<br>
+
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/RodrigoLuigi/NLW-Copa?color=56BEB8">
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/RodrigoLuigi/NLW-Copa?color=56BEB8">
