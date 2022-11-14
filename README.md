@@ -41,11 +41,10 @@ Neste módulo, foi desenvolvido uma página estática contendo um card personali
 
   🔗  [Frontend Mobile](https://github.com/RodrigoLuigi/NLW-Copa/tree/main/copa-card#top)<br>
  
+</br>
 
 ## :memo: Licença ##
  MIT License. Para mais detalhes veja em [LICENSE](./LICENSE).
-
- ##
 
 &#xa0;
 
