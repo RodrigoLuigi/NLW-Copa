@@ -20,7 +20,7 @@
 
 <br>
 
-# ⚽️ Next Level Week - Copa 
+# Next Level Week ⚽️ Copa 
 NLW Copa - é um aplicativo para criar bolões descentralizados dos Jogos da Copa do Mundo. O usuário poderá criar seu próprio bolão e compartilhar o código de acesso para que outros usuários possam participar. Cada usuário poderá dar apenas um único palpite sobre cada jogo.
 
 # <br>:book: Módulos
