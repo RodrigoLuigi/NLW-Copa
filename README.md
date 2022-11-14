@@ -19,19 +19,27 @@
 
 # ⚽️ Next Level Week - Copa 
 NLW Copa - é um aplicativo para criar bolões descentralizados dos Jogos da Copa do Mundo. O usuário poderá criar seu próprio bolão e compartilhar o código de acesso para que outros usuários possam participar. Cada usuário poderá dar apenas um único palpite sobre cada jogo.
-## <img id="sobre" src="https://imgur.com/VhTBbHg.png" alt="imagem de um notebook" align="center" width="30px"> _**O que desenvolvemos neste Projeto?**_
 
 # <br>:book: Módulos do NLW-Copa
+### <img src="https://imgur.com/VhTBbHg.png" alt="imagem de um notebook" align="center" width="30px"> _**Stage 01: API Server - Nodejs**_
+  Neste módulo, foi desenvolvido toda API da nossa aplicação, contendo configurações de rotas , Google Auth para autenticação do usuário e fastify como alternativa ao express.
 
-### <img src="https://imgur.com/VhTBbHg.png" alt="imagem de um notebook" align="center" width="30px"> [_**Stage 01: Copa Card Web**_](https://github.com/RodrigoLuigi/Explorer---RocketSeat/tree/master/Stage%2001%20-%20Fundamentos%20Programa%C3%A7%C3%A3o%20Web)
-  Neste módulo, desenvolvemos uma página estática contendo um card personalizado do evento NLW Copa.
+  🔗  [API Server](https://github.com/RodrigoLuigi/NLW-Copa/tree/main/server#top)<br>
 
-  🔗  [Copa-Card Web](https://github.com/RodrigoLuigi/NLW-Copa/tree/main/copa-card#top)<br>
+### <img src="https://imgur.com/VhTBbHg.png" alt="imagem de um notebook" align="center" width="30px"> _**Stage 01: Frontend Copa-Card Web**_
+Neste módulo, foi desenvolvido uma página estática contendo um card personalizado do evento NLW Copa.
+
+🔗  [Copa-Card Web](https://github.com/RodrigoLuigi/NLW-Copa/tree/main/copa-card#top)<br>
+
+### <img src="https://imgur.com/VhTBbHg.png" alt="imagem de um notebook" align="center" width="30px"> _**Stage 01: Frontend Web - Nextjs**_
+  Neste módulo, foi desenvolvido uma aplicação web para que usuários possam criar bolões da copa e compartilhar o código do bolão para que outros usuários possam participar.
+
+  🔗  [Frontend Web](https://github.com/RodrigoLuigi/NLW-Copa/tree/main/web#top)<br>
  
-### <img src="https://imgur.com/VhTBbHg.png" alt="imagem de um notebook" align="center" width="30px"> [_**Stage 01: Copa Card Web**_](https://github.com/RodrigoLuigi/Explorer---RocketSeat/tree/master/Stage%2001%20-%20Fundamentos%20Programa%C3%A7%C3%A3o%20Web)
-  Neste módulo, desenvolvemos uma página estática contendo um card personalizado do evento NLW Copa.
+### <img src="https://imgur.com/VhTBbHg.png" alt="imagem de um notebook" align="center" width="30px"> _**Stage 01: Frontend Mobile - React-Native**_
+  Neste módulo, foi desenvolvido uma aplicação mobile completa onde usuários podem se autenticar com suas contas Google. Quando logado na aplicação o usuário poderá criar um bolão, participar de um bolão, dar palpites em jogos do bolão em que estiver participando e compartilhar o código do seu bolão para que outros usuários possam participar.
 
-  🔗  [Copa-Card Web](https://github.com/RodrigoLuigi/NLW-Copa/tree/main/copa-card#top)<br>
+  🔗  [Frontend Mobile](https://github.com/RodrigoLuigi/NLW-Copa/tree/main/copa-card#top)<br>
  
 
 
