@@ -15,7 +15,7 @@
   <a href="https://github.com/RodrigoLuigi/NLW-Copa/tree/main/copa-card#top">Copa-Card Web</a> &#xa0; | &#xa0;
   <a href="https://github.com/RodrigoLuigi/NLW-Copa/tree/main/web#top">Web</a> &#xa0; | &#xa0;
   <a href="https://github.com/RodrigoLuigi/NLW-Copa/tree/main/mobile#top">Mobile</a> &#xa0; | &#xa0;
-  <a href="#memo-licença">Licença</a> &#xa0; | &#xa0;
+  <a href="#memo-licença">Licença</a>
 </p>
 
 # ⚽️ Next Level Week - Copa 
