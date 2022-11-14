@@ -1,5 +1,5 @@
 
-<img src="./nlw-copa.png" alt="nlw-copa" />
+<img src="./nlw-copa.png" alt="nlw-copa" height="200px"/>
 
 <br/>
 
