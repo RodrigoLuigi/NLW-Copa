@@ -1,4 +1,4 @@
-# <h1 id="top" align="center">NLW Copa ⚽️ Projeto Mobile Frontend </h1>
+# <h1 id="top" align="center">NLW Copa ⚽️ Projeto Backend API </h1>
 
 <p align="center">
   <a href="#sobre">Sobre</a> &#xa0; | &#xa0; 
