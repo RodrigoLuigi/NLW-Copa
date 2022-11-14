@@ -1,5 +1,4 @@
-
-<img src="./nlw-copa.png" alt="nlw-copa" height="200px" width="100%"/>
+<img id="top" src="./nlw-copa.png" alt="nlw-copa" height="200px" width="100%"/>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/RodrigoLuigi/NLW-Copa?color=56BEB8">
@@ -13,7 +12,7 @@
 
 <p align="center">
   <a href="#sobre">API</a> &#xa0; | &#xa0; 
-  <a href="#-features">Copa-Card Web</a> &#xa0; | &#xa0;
+  <a href="https://github.com/RodrigoLuigi/NLW-Copa/tree/main/copa-card #top">Copa-Card Web</a> &#xa0; | &#xa0;
   <a href="#-features">Web</a> &#xa0; | &#xa0;
   <a href="#-tecnologias">Mobile</a> &#xa0; | &#xa0;
 </p>
