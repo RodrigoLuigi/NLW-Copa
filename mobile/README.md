@@ -2,8 +2,8 @@
 
 <p align="center">
   <a href="#sobre">Sobre</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
-  <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
+  <a href="#-features">Features</a> &#xa0; | &#xa0;
+  <a href="#-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#-requisitos">Requisitos</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-iniciando">Iniciando</a> &#xa0; | &#xa0;
   <a href="https://github.com/RodrigoLuigi" target="_blank">Author</a>
@@ -18,7 +18,7 @@
 
 NLW Copa - web é um aplicativo para criar bolões descentralizados dos Jogos da Copa do Mundo. O usuário poderá criar seu próprio bolão e compartilhar o código de acesso para que outros usuários possam participar. Cada usuário poderá dar apenas um único palpite sobre cada jogo.
 
-## :sparkles: Features ##
+## ⚙️ Features ##
 
 :heavy_check_mark: Criação de Bolões\
 :heavy_check_mark: Login with Google\
@@ -26,7 +26,7 @@ NLW Copa - web é um aplicativo para criar bolões descentralizados dos Jogos da
 :heavy_check_mark: Compartilhar Bolão com amigos!\
 :hammer_and_wrench: Mostrar Ranking por Bolão
 
-## :rocket: Tecnologias ##
+## 👨‍💻 Tecnologias ##
 
 As seguintes ferramentas foram usadas neste projeto:
 
