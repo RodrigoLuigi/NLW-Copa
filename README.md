@@ -3,13 +3,10 @@
 
 <br/>
 
-<p align="center">
-  <a href="#sobre">Sobre</a> &#xa0; | &#xa0; 
-  <a href="#-features">Features</a> &#xa0; | &#xa0;
-  <a href="#-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
-  <a href="#-requisitos">Requisitos</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-iniciando">Iniciando</a> &#xa0; | &#xa0;
-  <a href="https://github.com/RodrigoLuigi" target="_blank">Author</a>
+<p align="center" color="blueviolet">
+  <a href="#sobre">API</a> &#xa0; | &#xa0; 
+  <a href="#-features">Web</a> &#xa0; | &#xa0;
+  <a href="#-tecnologias">Mobile</a> &#xa0; | &#xa0;
 </p>
 
 ## <img id="sobre" src="https://imgur.com/VhTBbHg.png" alt="imagem de um notebook" align="center" width="30px"> _**O que desenvolvemos neste Projeto?**_
