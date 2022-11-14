@@ -20,3 +20,10 @@
 ## <img id="sobre" src="https://imgur.com/VhTBbHg.png" alt="imagem de um notebook" align="center" width="30px"> _**O que desenvolvemos neste Projeto?**_
 
 NLW Copa - é um aplicativo para criar bolões descentralizados dos Jogos da Copa do Mundo. O usuário poderá criar seu próprio bolão e compartilhar o código de acesso para que outros usuários possam participar. Cada usuário poderá dar apenas um único palpite sobre cada jogo.
+
+<div border="1px solid black" width="250px" height="300px">
+<h2>
+Copa-Card Web
+</h2>
+<img id="sobre" src="./nlw-copa.png" alt="imagem de um notebook" align="center" width="30px">
+</div>
