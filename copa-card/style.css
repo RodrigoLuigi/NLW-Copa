@@ -26,8 +26,6 @@ header {
   width: 35.4rem;
   height: 50.8rem;
 
-  margin: 0 auto;
-
   background-image: url(assets/bg-explorer.svg);
   
   text-align: center;
@@ -69,6 +67,28 @@ header {
   font-size: 1.4rem;
 
   line-height: 160%;
+}
+
+.cards {
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+
+.card:nth-child(1) {
+  transform: rotate(-15deg);
+
+}
+
+.card:nth-child(2) {
+  position:absolute;
+  bottom: 35px;
+  background-image: url(assets/bg-ignite.svg);
+}
+
+.card:nth-child(3) {
+  transform: rotate(15deg);
+
 }
 
 
